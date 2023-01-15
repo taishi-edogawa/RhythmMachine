@@ -1,7 +1,7 @@
 # RhythmMachine
 Nuxt3とWeb Audio APIを使ってリズムマシンを作ってみた
 
-# Nuxt 3 Minimal Starter
+## Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
